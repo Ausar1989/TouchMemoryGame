@@ -104,15 +104,15 @@ class TouchMemoryGame extends Component {
         return (
           <div>
             <NavBar
-              score={state.score}
-              highScore={state.highScore}
-              navMessage={state.navMessage}
-              navMsgColor={state.navMsgColor}
+              score={this.state.score}
+              highScore={this.state.highScore}
+              navMessage={this.state.navMessage}
+              navMsgColor={this.state.navMsgColor}
             />
             <Container />
             <Icon
-              shake={state.shake}
-              characters={state.allCharacters}
+              shake={this.state.shake}
+              allPlanets={this.state.allPlanets}
               clickEvent={this.clickEvent}
             />
             <Footer />

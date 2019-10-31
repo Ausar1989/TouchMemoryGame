@@ -10,7 +10,7 @@ const Icon = props => (
         : 'icon d-flex flex-wrap justify-content-center'
       }
     >
-       {props.Planet.map((a, i) => <Planet name={a} key={i} clickEvent={props.clickEvent} />)}
+       {props.allPlanets.map((a, i) => <Planet name={a} key={i} clickEvent={props.clickEvent} />)}
     </div>
 );
 
