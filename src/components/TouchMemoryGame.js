@@ -57,6 +57,7 @@ class TouchMemoryGame extends Component {
           if (score === highScore) {
             score++;
             highScore++;
+          
     
             // if they are not equal, then only increase the score value
           } else {
@@ -75,7 +76,7 @@ class TouchMemoryGame extends Component {
             highScore: highScore,
             navMsgColor: 'incorrect',
             navMessage: 'Incorrect guess!',
-            allCharacters: shuffled,
+            allPlanets: shuffled,
             wasClicked: [],
             shake: true
           });
@@ -87,7 +88,7 @@ class TouchMemoryGame extends Component {
           highScore: highScore,
           navMsgColor: 'correct',
           navMessage: 'You Guessed Correctly!',
-          allCharacters: shuffled,
+          allPlanets: shuffled,
           wasClicked: prevState,
           shake: false
         });

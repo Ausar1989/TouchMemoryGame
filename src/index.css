@@ -1,4 +1,7 @@
-body {
-    margin: 0;
-    background-image: url(./images/DeespSpace.jpg);
-}
+body { 
+    background: url(./images/DeespSpace.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
