@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/TouchMemoryGame/static/css/main.2c9ae118.chunk.css",
-    "main.js": "/TouchMemoryGame/static/js/main.b2c61e3b.chunk.js",
-    "main.js.map": "/TouchMemoryGame/static/js/main.b2c61e3b.chunk.js.map",
+    "main.css": "/TouchMemoryGame/static/css/main.4da8c77c.chunk.css",
+    "main.js": "/TouchMemoryGame/static/js/main.7cc83e34.chunk.js",
+    "main.js.map": "/TouchMemoryGame/static/js/main.7cc83e34.chunk.js.map",
     "runtime-main.js": "/TouchMemoryGame/static/js/runtime-main.124dd566.js",
     "runtime-main.js.map": "/TouchMemoryGame/static/js/runtime-main.124dd566.js.map",
     "static/js/2.bc7eeef8.chunk.js": "/TouchMemoryGame/static/js/2.bc7eeef8.chunk.js",
     "static/js/2.bc7eeef8.chunk.js.map": "/TouchMemoryGame/static/js/2.bc7eeef8.chunk.js.map",
     "index.html": "/TouchMemoryGame/index.html",
-    "precache-manifest.8520438a7856ec3c2ac2aa749faeefb8.js": "/TouchMemoryGame/precache-manifest.8520438a7856ec3c2ac2aa749faeefb8.js",
+    "precache-manifest.63ae8864395859a3e18b9f50f61fdd82.js": "/TouchMemoryGame/precache-manifest.63ae8864395859a3e18b9f50f61fdd82.js",
     "service-worker.js": "/TouchMemoryGame/service-worker.js",
-    "static/css/main.2c9ae118.chunk.css.map": "/TouchMemoryGame/static/css/main.2c9ae118.chunk.css.map",
+    "static/css/main.4da8c77c.chunk.css.map": "/TouchMemoryGame/static/css/main.4da8c77c.chunk.css.map",
     "static/media/Container.css": "/TouchMemoryGame/static/media/SpaceStation.4b60a25e.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.124dd566.js",
     "static/js/2.bc7eeef8.chunk.js",
-    "static/css/main.2c9ae118.chunk.css",
-    "static/js/main.b2c61e3b.chunk.js"
+    "static/css/main.4da8c77c.chunk.css",
+    "static/js/main.7cc83e34.chunk.js"
   ]
 }

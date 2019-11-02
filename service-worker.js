@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/TouchMemoryGame/precache-manifest.8520438a7856ec3c2ac2aa749faeefb8.js"
+  "/TouchMemoryGame/precache-manifest.63ae8864395859a3e18b9f50f61fdd82.js"
 );
 
 self.addEventListener('message', (event) => {

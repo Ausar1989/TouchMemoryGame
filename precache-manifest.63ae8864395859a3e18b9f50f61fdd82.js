@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d30a07707bfa5b1be16e6e0698d0ce0a",
+    "revision": "7b296bf582f0565690071ca255235c5d",
     "url": "/TouchMemoryGame/index.html"
   },
   {
-    "revision": "d48b696f6f9705d88fb8",
-    "url": "/TouchMemoryGame/static/css/main.2c9ae118.chunk.css"
+    "revision": "9bccdc9f09091eef5326",
+    "url": "/TouchMemoryGame/static/css/main.4da8c77c.chunk.css"
   },
   {
     "revision": "d74e5daac1fffa8d0c47",
     "url": "/TouchMemoryGame/static/js/2.bc7eeef8.chunk.js"
   },
   {
-    "revision": "d48b696f6f9705d88fb8",
-    "url": "/TouchMemoryGame/static/js/main.b2c61e3b.chunk.js"
+    "revision": "9bccdc9f09091eef5326",
+    "url": "/TouchMemoryGame/static/js/main.7cc83e34.chunk.js"
   },
   {
     "revision": "bc7c6433fa2d6358cf6e",
