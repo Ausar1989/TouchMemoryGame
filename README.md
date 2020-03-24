@@ -18,3 +18,5 @@ This is an image of the website when the guess was incorrect:
 - Javascript
 - HTML
 - Node.js
+
+Have a wondeful day!
